@@ -29,6 +29,7 @@ A group of 4 students from ESTBarreiro with their school id number assigned.
 - [💻 Installation](#-installation)
 - [🚀 Usage](#-usage)
 - [📜 License](#-license)
+- [🔗 References](#-references)
 
 ---
 
